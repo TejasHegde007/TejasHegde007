@@ -16,10 +16,14 @@
 </div>
 
 ## Credly Verified Badges
-AWS Knowledge: Cloud Essentials <br>
-Issued by Amazon Web Services Training and Certification: https://www.credly.com/badges/7b4ac69f-6fbe-4204-b8a2-5616d4e3a346/public_url <br>
+AWS Knowledge: Cloud Essentials<br>
+Issued by Amazon Web Services Training and Certification: https://www.credly.com/badges/7b4ac69f-6fbe-4204-b8a2-5616d4e3a346/public_url<br>
 Google Cloud Computing Foundations Certificate<br>
 Issued by Google Cloud: https://www.credly.com/badges/a9e0f87d-c516-482e-a3b2-a252f2d91ac9/public_url<br>
+Build Google Cloud Infrastructure for AWS Professionals Skill Badge<br>
+Issued by Google Cloud: https://www.credly.com/badges/fd86a695-7c01-400d-a3b3-0c906faca7a2/public_url<br>
+Build Google Cloud Infrastructure for Azure Professionals Skill Badge<br>
+Issued by Google Cloud: https://www.credly.com/badges/69fa2137-3a9f-43b0-bbd0-1ae79aa7925f/public_url<br>
 Build Real World AI Applications with Gemini and Imagen Skill Badge<br>
 Issued by Google Cloud: https://www.credly.com/badges/284618d9-46d2-4c26-ab77-e6061e6ead91/public_url<br>
 JavaScript Essentials 1<br>
