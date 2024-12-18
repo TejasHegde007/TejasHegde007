@@ -16,5 +16,6 @@
 </div>
 
 ## Credly Verified Badges
-https://www.credly.com/badges/f5089129-0c55-444a-a2ea-4692834b5a4c/public_url
+Cybersecurity Fundamentals
+Issued by IBM-SkillsBuild: https://www.credly.com/badges/f5089129-0c55-444a-a2ea-4692834b5a4c/public_url
 
