@@ -16,7 +16,7 @@
 </div>
 
 ## Credly Verified Badges
-AWS Knowledge: Cloud Essentials
+AWS Knowledge: Cloud Essentials <br>
 Issued by Amazon Web Services Training and Certification: https://www.credly.com/badges/7b4ac69f-6fbe-4204-b8a2-5616d4e3a346/public_url
 Google Cloud Computing Foundations Certificate
 Issued by Google Cloud: https://www.credly.com/badges/a9e0f87d-c516-482e-a3b2-a252f2d91ac9/public_url
